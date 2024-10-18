@@ -3,7 +3,9 @@ require_once("includes\\header.php");
 ?>
 
     <!-- Navbar -->
-    <?php require_once("includes\\navbar"); ?>
+<?php
+require_once("includes\\navbar.php");
+?>
 
     <!-- Shopping Cart -->
     <div class="container mt-5">
